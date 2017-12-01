@@ -1,3 +1,6 @@
+
+**This is a copy of the original repo miniflux/theme-cards that is no longuer available**
+
 Theme Cards
 ===========
 
@@ -8,4 +11,5 @@ Screenshot
 ----------
 
 ![Screenshot](http://mrlacour.fr/img/miniflux.png)
+
 
